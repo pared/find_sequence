@@ -14,6 +14,6 @@ public class TestNumbersAndOperators {
         assertEquals(new Character('+'),Operators.getOperatorForGene(Operators.getGeneForCharacter('+')));
         assertEquals(new Character('-'),Operators.getOperatorForGene(Operators.getGeneForCharacter('-')));
         assertEquals(new Character('\\'),Operators.getOperatorForGene(Operators.getGeneForCharacter('\\')));
-        assertEquals(new Character('*'),Operators.getOperatorForGene(Operators.getGeneForCharacter('*')));
+        assertEquals(new Character('*'),Operators.getOperatorForGene(Operators.getGeneForCharacter('*git config --global user.email "you@example.com"')));
     }
 }
